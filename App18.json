@@ -1,0 +1,34 @@
+{
+	"ADS": {
+	
+		"native_type": "applovin",
+		"inter_type": "applovin",
+		"banner_type": "applovin",
+ 
+ 
+   
+		"API_URL": "https://easyplex.cf/api/",
+ 
+		"ironsource_id": "11c7e1165",
+
+	 
+		"banner_applovin": "e5878e8ee803f3a3",
+		"native_applovin": "447239711624dffc",
+		"interstitial_applovin": "a9fd58e62cee11b8",
+
+
+		"interstitial_admob": "ca-app-pub-/1033173712",
+		"banner_admob": "ca-app-pub-/6300978111",
+		"native_admob": "ca-app-pub-/2247696110",
+		"rewarde_admob": "ca-app-pub-/5224354917",
+
+		 
+		
+		"facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"facebook_rewarde": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+
+		 
+	}  
+   }
